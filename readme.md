@@ -33,7 +33,7 @@ https://nnitasia-openai-01-ins.openai.azure.com/openai/deployments/gpt-35-turbo-
 
 key:
 
-7218515241f04d98b3b5d9869a25b91f
+
 
 
 
