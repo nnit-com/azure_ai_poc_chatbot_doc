@@ -1,0 +1,55 @@
+{
+
+    "plugins": ["tbfed-pagefooter",
+    
+    "lunr", 
+    "search",
+    "search-pro",
+    "back-to-top-button",
+    "copy-code-button",
+    "cuav-chapters",
+    "heading-anchors",
+    "highlight",
+    "chapter-fold",
+    "expandable-chapters",
+    "theme-fexa",
+    "code",
+    "splitter",
+    "tbfed-pagefooter",
+    "popup",
+    "page-toc-button",
+    "accordion"
+  
+  
+  
+  
+  ],
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+
+
+
+
+    "pluginsConfig": {
+
+        "tbfed-pagefooter": {
+
+          "copyright":"&copy snowdreams1006",
+
+          "modify_label": "文件修订时间：",
+
+          "modify_format": "YYYY-MM-DD HH:mm:ss"
+
+        }
+
+    }
+
+}
